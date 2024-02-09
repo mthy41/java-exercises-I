@@ -1,6 +1,6 @@
 Todos os diretórios estão em ordem correspondente à ordem das atividades propostas.
 ___
-Descomprimir tarball:
+Linux:
 `tar -xv --file=exercises_compacted.tar.xz`
 
 Comando de compilação:
